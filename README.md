@@ -48,7 +48,7 @@ Cross-validated to avoid overfitting.
 If you find any bugs or have suggestions for improvements, please raise an issue or submit a pull request.
 
 ##### Contact
-shiny Email: shinyshajeev@gmail.com LinkedIn:
+shiny Email: shinyshajeev@gmail.com LinkedIn:www.linkedin.com/in/shiny-ml-engineer
 
 Gobikrishnan Email: gobikrishnanm1999@gmail.com LinkedIn:http://www.linkedin.com/in/gobikrishnanm1999
 
